@@ -7244,7 +7244,7 @@
 		(uuid "1abcf0f5-63d4-4362-bd81-1be2413d7bbc")
 	)
 	(hierarchical_label "3.3V"
-		(shape input)
+		(shape output)
 		(at 45.72 72.39 180)
 		(effects
 			(font

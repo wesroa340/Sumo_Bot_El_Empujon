@@ -732,7 +732,7 @@
 		)
 		(uuid "aebf163a-1e52-4684-952d-d8d12b81ddb5")
 	)
-	(text "Encoder"
+	(text "Encoder del motor"
 		(exclude_from_sim no)
 		(at 87.376 101.346 0)
 		(effects
@@ -742,7 +742,7 @@
 		)
 		(uuid "1535a148-d2bc-4c38-aa01-92990eb3f3f3")
 	)
-	(text "Motores"
+	(text "Drivers"
 		(exclude_from_sim no)
 		(at 83.566 43.942 0)
 		(effects
@@ -4035,7 +4035,7 @@
 		)
 		(uuid "426b4606-c134-4c64-bb16-f53c466e4a2e")
 	)
-	(hierarchical_label "VCC"
+	(hierarchical_label "5V"
 		(shape input)
 		(at 49.53 69.85 180)
 		(effects
@@ -4046,7 +4046,7 @@
 		)
 		(uuid "4a765ac0-809a-480d-bae8-92cf9d50f92e")
 	)
-	(hierarchical_label "VCC"
+	(hierarchical_label "3.3V"
 		(shape input)
 		(at 107.95 121.92 180)
 		(effects
@@ -4057,7 +4057,7 @@
 		)
 		(uuid "4e059060-720b-4b4a-817b-5b669cfe4e02")
 	)
-	(hierarchical_label "VCC"
+	(hierarchical_label "3.3V"
 		(shape input)
 		(at 54.61 121.92 180)
 		(effects
@@ -4101,7 +4101,7 @@
 		)
 		(uuid "80630f7d-6fa5-4ca7-8b93-60cbaa0f31bc")
 	)
-	(hierarchical_label "VCC"
+	(hierarchical_label "5V"
 		(shape input)
 		(at 102.87 71.12 180)
 		(effects
